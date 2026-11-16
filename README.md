@@ -1,5 +1,9 @@
 # GIoU Visualiser
 
+yguo0070 and fellow students developed GIoU Visualiser as a group project at Monash University. It shows how moving, resizing, or rotating bounding boxes changes their IoU and GIoU in 2D and 3D.
+
+Player0124 maintains this private backup. Keeping a copy does not transfer copyright or grant permission to redistribute the project.
+
 GIoU Visualiser is a local web app for building, transforming, and analysing
 2D/3D cuboid bounding boxes. It is designed for interactive inspection of IoU
 and GIoU behaviour: users can create cuboids, transform them in the scene, keep
